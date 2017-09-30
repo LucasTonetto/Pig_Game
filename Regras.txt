@@ -1,0 +1,17 @@
+REGRAS:
+
+- O jogo necessita de 2 jogadores, que irão de revezar em turnos;
+- Um jogador pode rolar o dado quantas vezes quiser a cada turno. Cada resultado é somado ao seu "round score";
+- Se o jogador rolar 1, todo o seu "round score" é perdido e ele passa seu turno para o próximo jogador.
+- O jogador pode escolher a opção "Hold", o que significa que seu "round score" será adicionado ao seu "global score" e ele passará a vez para o próximo jogador;
+- O primeiro jogador conseguir 100 ou mais pontos no "global score" vence o jogo.
+
+------------------------------------------------------------------------------------------------------
+
+GAME RULES:
+
+- The game has 2 players, playing in rounds;
+- In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score;
+- BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn;
+- The player can choose to 'Hold', which means that his ROUND score gets added to his GLOBAL score. After that, it's the next player's turn;
+- The first player to reach 100 points on GLOBAL score wins the game.
